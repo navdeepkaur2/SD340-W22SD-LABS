@@ -1,0 +1,15 @@
+C:\Users\navde\source\repos\SD340-W22SD-LABS\SD-340-LABS\SD-340-LABS\bin\Debug\net6.0\SD-340-LABS.exe
+C:\Users\navde\source\repos\SD340-W22SD-LABS\SD-340-LABS\SD-340-LABS\bin\Debug\net6.0\SD-340-LABS.deps.json
+C:\Users\navde\source\repos\SD340-W22SD-LABS\SD-340-LABS\SD-340-LABS\bin\Debug\net6.0\SD-340-LABS.runtimeconfig.json
+C:\Users\navde\source\repos\SD340-W22SD-LABS\SD-340-LABS\SD-340-LABS\bin\Debug\net6.0\SD-340-LABS.dll
+C:\Users\navde\source\repos\SD340-W22SD-LABS\SD-340-LABS\SD-340-LABS\bin\Debug\net6.0\SD-340-LABS.pdb
+C:\Users\navde\source\repos\SD340-W22SD-LABS\SD-340-LABS\SD-340-LABS\obj\Debug\net6.0\SD-340-LABS.csproj.AssemblyReference.cache
+C:\Users\navde\source\repos\SD340-W22SD-LABS\SD-340-LABS\SD-340-LABS\obj\Debug\net6.0\SD-340-LABS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\navde\source\repos\SD340-W22SD-LABS\SD-340-LABS\SD-340-LABS\obj\Debug\net6.0\SD-340-LABS.AssemblyInfoInputs.cache
+C:\Users\navde\source\repos\SD340-W22SD-LABS\SD-340-LABS\SD-340-LABS\obj\Debug\net6.0\SD-340-LABS.AssemblyInfo.cs
+C:\Users\navde\source\repos\SD340-W22SD-LABS\SD-340-LABS\SD-340-LABS\obj\Debug\net6.0\SD-340-LABS.csproj.CoreCompileInputs.cache
+C:\Users\navde\source\repos\SD340-W22SD-LABS\SD-340-LABS\SD-340-LABS\obj\Debug\net6.0\SD-340-LABS.dll
+C:\Users\navde\source\repos\SD340-W22SD-LABS\SD-340-LABS\SD-340-LABS\obj\Debug\net6.0\refint\SD-340-LABS.dll
+C:\Users\navde\source\repos\SD340-W22SD-LABS\SD-340-LABS\SD-340-LABS\obj\Debug\net6.0\SD-340-LABS.pdb
+C:\Users\navde\source\repos\SD340-W22SD-LABS\SD-340-LABS\SD-340-LABS\obj\Debug\net6.0\SD-340-LABS.genruntimeconfig.cache
+C:\Users\navde\source\repos\SD340-W22SD-LABS\SD-340-LABS\SD-340-LABS\obj\Debug\net6.0\ref\SD-340-LABS.dll
